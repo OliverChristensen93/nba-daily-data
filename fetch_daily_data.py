@@ -22,8 +22,6 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 OUTPUT_FILE = SCRIPT_DIR / "data" / "daily_challenge.json"
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-DATA_DIR.mkdir(parents=True, exist_ok=True)
-
 # ── Config ───────────────────────────────────────────────────────────────────
 SEASON = "2025-26"
 RECENT_DAYS = 5
