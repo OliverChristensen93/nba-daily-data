@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "fetchedAtUtc": "2026-07-02T07:06:15Z",
+  "date": "2026-07-03",
+  "fetchedAtUtc": "2026-07-03T08:52:38Z",
   "seasonStats": [
     {
       "playerId": 1629029,
@@ -1538,7 +1538,7 @@
     },
     {
       "playerId": 202696,
-      "playerName": "Nikola Vucevic",
+      "playerName": "Nikola Vu\u010devi\u0107",
       "season": "2025-26",
       "team": "BOS",
       "gamesPlayed": 64,
