@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-08",
-  "fetchedAtUtc": "2026-07-08T08:13:10Z",
+  "date": "2026-07-09",
+  "fetchedAtUtc": "2026-07-09T09:25:43Z",
   "seasonStats": [
     {
       "playerId": 1629029,
@@ -1824,7 +1824,7 @@
     },
     {
       "playerId": 1626171,
-      "playerName": "Bobby Portis",
+      "playerName": "Bobby Portis Jr.",
       "season": "2025-26",
       "team": "MIL",
       "gamesPlayed": 67,
@@ -3722,7 +3722,7 @@
     },
     {
       "playerId": 202685,
-      "playerName": "Jonas Valan\u010di\u016bnas",
+      "playerName": "Jonas Valanciunas",
       "season": "2025-26",
       "team": "DEN",
       "gamesPlayed": 65,
